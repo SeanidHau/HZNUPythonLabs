@@ -66,6 +66,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - he413260@outlook.com
+Email - he413260@outlook.com
 
 Project Link: https://github.com/SeanidHau/HZNUPythonLabs

@@ -70,6 +70,6 @@ python example.py
 
 ## 联系
 
-你的名字 - he413260@gmail.com
+电子邮箱 - he413260@gmail.com
 
 项目链接: https://github.com/SeanidHau/HZNUPythonLabs
