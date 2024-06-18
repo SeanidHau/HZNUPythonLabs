@@ -1,4 +1,4 @@
-# 学校的OJ不支持re库 所以以下答案不会在学校OJ上通过 但是代码及结果是正确的 个人写时可以稍加修改
+# 以下答案不会在学校OJ上通过 但是代码及结果是正确的 个人写时可以稍加修改
 # 可以参考https://blog.csdn.net/Lumos427/article/details/125162768?spm=1001.2014.3001.5501
 import re
 from collections import Counter
